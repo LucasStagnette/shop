@@ -1,4 +1,0 @@
-changer login
-commande
-formulaire de connexion
-enlever animation footer
