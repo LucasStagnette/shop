@@ -1,0 +1,2 @@
+A faire : 
+afficher la commande sur le compte de la personne
