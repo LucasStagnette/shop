@@ -6,7 +6,7 @@ SITE DE VENTE EN LIGNE
 Nécessite :
 - Apache et MySql
 - Créer une base de donnés 'shop_lucas'
-- Importer le ficher dans cette dernière
+- Importer le ficher `shop_lucas.sql` dans cette dernière
 
 
 Adresse une fois votre serveur lancé au choix:
